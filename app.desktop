@@ -3,3 +3,5 @@ Version=1.0
 Type=Application
 Name=xeyes
 Exec=/usr/bin/xeyes
+Icon=
+
